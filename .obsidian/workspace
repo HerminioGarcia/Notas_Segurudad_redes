@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "8511c003e3897efc",
+    "type": "split",
+    "children": [
+      {
+        "id": "d602f10c8c0f05cd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Nivel4a5.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b848912d9e8dd2ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fbc60529598ef6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3702ed8391b7981a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "232a53ab42716aa2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6b80933637313958",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d1727980bc583c93",
+    "type": "split",
+    "children": [
+      {
+        "id": "41deb3740d42490e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "966d4728a5f155ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Nivel4a5.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "506e55d15284a9be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Nivel4a5.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "262221e0ecc887fa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9431b23286a1de04",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Nivel4a5.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d602f10c8c0f05cd",
+  "lastOpenFiles": [
+    "retos_bandit/Nivel3a4.md",
+    "Nivel4a5.md",
+    "retos_bandit/Nivel2a3.md",
+    "retos_bandit/Nivel1a2.md",
+    "retos_bandit/Nivel0a1.md",
+    "retos_bandit/Nivel0.md",
+    "retos_bandit/bandit.md"
+  ]
+}
