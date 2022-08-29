@@ -23,3 +23,6 @@ pIwrPrtPN36QITSp3EQaw936yaFoFgAB
 Para ver los archivos oculros usa ls -a
 
 ## Referencias
+
+## Comandos que puedes necesitar para resolver este nivel
+ls , cd, cat, file, du, find , grep

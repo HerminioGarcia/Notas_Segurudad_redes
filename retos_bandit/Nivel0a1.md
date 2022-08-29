@@ -17,8 +17,4 @@ bandit0@bandit:~$
 
 ## Notas adicionales
 ## Comandos que puedes necesitar para resolver este nivel
-
-Is, cd, gato, archivo, du, encontrar
-## Referencias
-https://en.wikipedia.org/wiki/Secure_Shell
-https://www.wikihow.com/Use-SSH
+ls , cd, cat, file, du, find , grep

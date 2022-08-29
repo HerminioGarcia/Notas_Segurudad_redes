@@ -1,6 +1,6 @@
 # Bandit
 ## Objetivo
-La contraseña para el siguiente nivel se almacena en un archivo llamado **espacios en este nombre de archivo** ubicado en el directorio de inicio
+La contraseña para el siguiente nivel se almacena en un archivo llamado **spaces in this filename** ubicado en el directorio de inicio
 
 ## Datos de acceso
 **Usuario:** bandit2
@@ -8,15 +8,18 @@ La contraseña para el siguiente nivel se almacena en un archivo llamado **espa
 
 ## Solucion
 ssh bandit2@bandit.labs.overthewire.org -p2220
-boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
 bandit2@bandit:~$ ls
 spaces in this filename
 bandit2@bandit:~$ cat spaces\ in\ this\ filename
 UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
-bandit2@bandit:~$
 
 ## Notas adicionales
-Se puede usar ./ o < para la solucion
+Usa el tabulador para poder completar el nombre
+
 ## Referencias
-https://en.wikipedia.org/wiki/Secure_Shell
-https://www.wikihow.com/Use-SSH
+-   [Búsqueda en Google de "nombre de archivo discontinuo"](https://www.google.com/search?q=dashed+filename)
+-   [Guía avanzada de secuencias de comandos Bash - Capítulo 3 - Caracteres especiales](http://tldp.org/LDP/abs/html/special-chars.html)
+
+## Comandos que puedes necesitar para resolver este nivel
+ls , cd, cat, file, du, find , grep

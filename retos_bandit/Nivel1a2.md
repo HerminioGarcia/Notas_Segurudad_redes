@@ -10,7 +10,6 @@ La contraseña para el siguiente nivel se almacena en un archivo llamado **-**�
 ssh bandit1@bandit.labs.overthewire.org -p2220
 boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 bandit1@bandit:~$ ls
--
 bandit1@bandit:~$ cat -
 
 bandit1@bandit:~$ cat < -
@@ -18,6 +17,10 @@ CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
 
 ## Notas adicionales
 Se puede usar ./ o < para la solucion
+
 ## Referencias
-https://en.wikipedia.org/wiki/Secure_Shell
-https://www.wikihow.com/Use-SSH
+-   [Búsqueda en Google de "nombre de archivo discontinuo"](https://www.google.com/search?q=dashed+filename)
+-   [Guía avanzada de secuencias de comandos Bash - Capítulo 3 - Caracteres especiales](http://tldp.org/LDP/abs/html/special-chars.html)
+
+## Comandos que puedes necesitar para resolver este nivel
+ls , cd, cat, file, du, find , grep
