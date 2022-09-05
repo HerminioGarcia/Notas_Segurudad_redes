@@ -75,4 +75,4 @@ Usando el comando -i de ssh para poder usar un archivo de clave primaria y poder
 https://help.ubuntu.com/community/SSH/OpenSSH/Keys
 
 ## Comandos que puedes necesitar para resolver este nivel
-ssh, telnet, carolina del norte, openssl, s_client, nmap
+ssh, telnet, nc, openssl, s_client, nmap

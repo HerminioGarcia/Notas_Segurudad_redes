@@ -30,5 +30,5 @@ Podemos desifrar la contraseña con xxd -r y podemos usar zcat, bzcat y tar xO p
 https://en.wikipedia.org/wiki/Hex_dump
 
 ## Comandos que puedes necesitar para resolver este nivel
-grep, ordenar, uniq, instrumentos de cuerda, base64, tr, alquitrán, gzip, bzip2, xxd, mkdir, cp, mv, archivo
+grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd, mkdir, cp, mv, file
 

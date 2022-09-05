@@ -26,4 +26,4 @@ nc host puerto se conecta a un host en un puerto determinado
 -   [Puerto (redes de computadoras) en Wikipedia](https://en.wikipedia.org/wiki/Port_(computer_networking))
 
 ## Comandos que puedes necesitar para resolver este nivel
-ssh, telnet, carolina del norte, openssl, s_client, nmap
+ssh, telnet, nc, openssl, s_client, nmap

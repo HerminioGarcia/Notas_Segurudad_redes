@@ -1,3 +1,4 @@
+# Bandit
 ## Objetivo
 La contraseña para el siguiente nivel se puede recuperar enviando la contraseña del nivel actual al **puerto 30001 en localhost** usando encriptación SSL.
 
@@ -28,4 +29,4 @@ de ahi podemos sacar el comando que ocupamos para la conexion
 -   [Libro de recetas de OpenSSL - Pruebas con OpenSSL](https://www.feistyduck.com/library/openssl-cookbook/online/ch-testing-with-openssl.html)
 
 ## Comandos que puedes necesitar para resolver este nivel
-ssh, telnet, carolina del norte, openssl, s_client, nmap
+ssh, telnet, nc, openssl, s_client, nmap
