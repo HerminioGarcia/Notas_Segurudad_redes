@@ -4,18 +4,18 @@ La contraseña para el siguiente nivel se almacena en el archivo **data.txt** 
 
 ## Datos de acceso
 **Usuario:** bandit7
-**Contraseña:** HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+**Contraseña:** z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
 
 ## Solucion
 ssh bandit7@bandit.labs.overthewire.org -p2220
-HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
 bandit7@bandit:~$ ls
 data.txt
 bandit7@bandit:~$ cat data.txt | grep millionth
 //salen muchas contraseñas podemos buscarlas usando  | grep millionth
 // para que busque de una mejor manera
 bandit7@bandit:~$ cat data.txt | grep millionth
-millionth       cvX2JJa4CFALtqS87jk27qwqGhBM9plV
+millionth       TESKZC0XvTetK0S9xNwm25STk5iWrBvP
 
 OTRA FORMA
 

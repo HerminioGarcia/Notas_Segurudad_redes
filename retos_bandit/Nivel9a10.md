@@ -4,18 +4,18 @@ La contraseña para el siguiente nivel se almacena en el archivo **data.txt** 
 
 ## Datos de acceso
 **Usuario:** bandit9
-**Contraseña:** UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
+**Contraseña:** EN632PlfYiZbn3PhVK3XOGSlNInNE00t
 
 ## Solucion
 ssh bandit9@bandit.labs.overthewire.org -p2220
-UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
+EN632PlfYiZbn3PhVK3XOGSlNInNE00t
 bandit9@bandit:~$ ls
 data.txt
 bandit9@bandit:~$  cat data.txt
 //escritos no legibles
 bandit9@bandit:~$ strings data.txt
 //se ven los escritos pero aun nos dalta buscar la contraseña que tenga =
-bandit9@bandit:~$ strings data.txt | grep =
+bandit9@bandit:~$ strings data.txt | grep ==
 ========== the*2i"4
 =:G e
 ========== password
@@ -25,13 +25,13 @@ A=|t&E
 Zdb=
 c^ LAh=3G
 *SF=s
-&========== truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
+&========== G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
 S=A.H&^
 
-//se sospecha de truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
+//se sospecha de G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
 
 ## Notas adicionales
-El sort sive para ordenar todos los archivos, con uniq buscamos la contraseña que no se repite
+El comando grep filtra todos los archivos =
 
 ## Referencias
 

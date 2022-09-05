@@ -4,11 +4,11 @@ La contraseña para el siguiente nivel se almacena en el único archivo legible 
 
 ## Datos de acceso
 **Usuario:** bandit4
-**Contraseña:** pIwrPrtPN36QITSp3EQaw936yaFoFgAB
+**Contraseña:** 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
 
 ## Solucion
 ssh bandit4@bandit.labs.overthewire.org -p2220
-pIwrPrtPN36QITSp3EQaw936yaFoFgAB
+2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
 bandit4@bandit:~$ ls
 inhere
 bandit4@bandit:~$ cd inhere/
@@ -26,7 +26,7 @@ bandit4@bandit:~/inhere$ file ./*
 ./-file08: data
 ./-file09: data
 bandit4@bandit:~/inhere$ cat < -file07
-koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
 
 ## Notas adicionales
 Con el comando ./* podemos ver todos los arcivos file que puedan ser legibles para los humanos

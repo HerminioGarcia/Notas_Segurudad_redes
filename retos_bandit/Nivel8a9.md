@@ -4,15 +4,15 @@ La contraseña para el siguiente nivel se almacena en el archivo **data.txt** 
 
 ## Datos de acceso
 **Usuario:** bandit8
-**Contraseña:** cvX2JJa4CFALtqS87jk27qwqGhBM9plV
+**Contraseña:** TESKZC0XvTetK0S9xNwm25STk5iWrBvP
 
 ## Solucion
 ssh bandit8@bandit.labs.overthewire.org -p2220
-cvX2JJa4CFALtqS87jk27qwqGhBM9plV
+TESKZC0XvTetK0S9xNwm25STk5iWrBvP
 bandit8@bandit:~$ ls
 data.txt
 bandit8@bandit:~$ cat data.txt| sort | uniq -u
-UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
+EN632PlfYiZbn3PhVK3XOGSlNInNE00t
 
 ## Notas adicionales
 El sort sive para ordenar todos los archivos, con uniq buscamos la contraseña que no se repite

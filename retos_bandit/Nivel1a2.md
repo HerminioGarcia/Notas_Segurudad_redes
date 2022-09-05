@@ -4,16 +4,16 @@ La contraseña para el siguiente nivel se almacena en un archivo llamado **-**�
 
 ## Datos de acceso
 **Usuario:** bandit1
-**Contraseña:** boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+**Contraseña:** NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 
 ## Solucion
 ssh bandit1@bandit.labs.overthewire.org -p2220
-boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 bandit1@bandit:~$ ls
 bandit1@bandit:~$ cat -
 
 bandit1@bandit:~$ cat < -
-CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
 
 ## Notas adicionales
 Se puede usar ./ o < para la solucion
