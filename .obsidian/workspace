@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "retos_bandit/Nivel27a28.md",
+            "file": "retos_bandit/Nivel33a34.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos_bandit/Nivel27a28.md",
+                "file": "retos_bandit/Nivel33a34.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos_bandit/Nivel27a28.md",
+                "file": "retos_bandit/Nivel33a34.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos_bandit/Nivel27a28.md"
+                "file": "retos_bandit/Nivel33a34.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "3702ed8391b7981a",
   "lastOpenFiles": [
-    "retos_bandit/Nivel26a27.md",
+    "retos_bandit/Nivel32a33.md",
+    "retos_bandit/Nivel33a34.md",
+    "retos_bandit/Nivel31a32.md",
+    "retos_bandit/Nivel30a31.md",
+    "retos_bandit/Nivel29a30.md",
+    "retos_bandit/Nivel28a29.md",
     "retos_bandit/Nivel27a28.md",
+    "retos_bandit/Nivel26a27.md",
     "retos_bandit/Nivel25a26.md",
-    "retos_bandit/Nivel24a25.md",
-    "retos_bandit/Nivel23a24.md",
-    "retos_bandit/Nivel22a23.md",
-    "retos_bandit/Nivel21a22.md",
-    "retos_bandit/Nivel17a18.md",
-    "retos_bandit/Nivel0a1.md",
-    "retos_bandit/Nivel0.md"
+    "retos_bandit/Nivel24a25.md"
   ]
 }
