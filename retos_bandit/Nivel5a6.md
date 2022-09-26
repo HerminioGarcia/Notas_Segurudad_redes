@@ -11,6 +11,7 @@ La contraseña para el siguiente nivel se almacena en un archivo en algún lugar
 **Contraseña:** lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
 
 ## Solucion
+``` shell
 ssh bandit5@bandit.labs.overthewire.org -p2220
 lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
 bandit5@bandit:~$ ls
@@ -24,7 +25,7 @@ bandit5@bandit:~/inhere$ find . -type f -size 1033c
 ./maybehere07/.file2
 bandit5@bandit:~/inhere$ cat ./maybehere07/.file2
 P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
-
+```
 ## Notas adicionales
 Con el comando find podemos buscar por tamaño del archivo, nombre, decha de creacion, por permisos, etc.
 find . -type f -size 1033c

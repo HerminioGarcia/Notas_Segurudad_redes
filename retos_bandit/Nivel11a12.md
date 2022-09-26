@@ -7,6 +7,7 @@ La contraseña para el siguiente nivel se almacena en el archivo **data.txt** 
 **Contraseña:** 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
 
 ## Solucion
+``` shell
 ssh bandit11@bandit.labs.overthewire.org -p2220
 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
 bandit11@bandit:~$ ls
@@ -19,7 +20,7 @@ Two strings must be given when translating.
 Try 'tr --help' for more information.
 bandit11@bandit:~$ cat data.txt | tr [a-zA-Z] [n-za-mN-ZA-M]
 The password is JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
-
+```
 ## Notas adicionales
 Podemos desifrar la contraseña con el siguiente comando cat data.txt | tr [a-zA-Z] [n-za-mN-ZA-M]
 

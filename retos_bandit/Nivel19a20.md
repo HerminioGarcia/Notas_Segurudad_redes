@@ -7,6 +7,7 @@ Para obtener acceso al siguiente nivel, debe usar el binario setuid en el direct
 **Contraseña:** awhqfNnAbc1naukrpqDYcF95h7HoMTrC
 
 ## Solucion
+``` shell
 ssh bandit19@bandit.labs.overthewire.org -p2220
 awhqfNnAbc1naukrpqDYcF95h7HoMTrC
 
@@ -28,7 +29,7 @@ uid=11019(bandit19) gid=11019(bandit19) euid=11020(bandit20) groups=11019(bandit
 
 bandit19@bandit:~$ ./bandit20-do cat /etc/bandit_pass/bandit20
 VxCazJaVykI6W36BkBU0mJTCM8rR95XT
-
+```
 ## Notas adicionales
 
 ## Referencias

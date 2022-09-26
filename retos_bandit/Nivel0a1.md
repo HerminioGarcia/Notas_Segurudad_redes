@@ -7,6 +7,7 @@ La contraseña para el siguiente nivel se almacena en un archivo llamado **Léa
 **Contraseña:** bandit0
 
 ## Solucion
+``` shell
 ssh bandit0@bandit.labs.overthewire.org -p2220
 bandit0
 bandit0@bandit:~$ ls
@@ -14,7 +15,7 @@ readme
 bandit0@bandit:~$ cat readme
 NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 bandit0@bandit:~$
-
+```
 ## Notas adicionales
 ## Comandos que puedes necesitar para resolver este nivel
 ls , cd, cat, file, du, find , grep

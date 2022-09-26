@@ -7,6 +7,7 @@ La contraseña para el siguiente nivel se almacena en un archivo oculto en el di
 **Contraseña:** aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
 
 ## Solucion
+``` shell
 ssh bandit3@bandit.labs.overthewire.org -p2220
 aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
 bandit3@bandit:~$ ls
@@ -17,7 +18,7 @@ bandit3@bandit:~/inhere$ ls -a
 .  ..  .hidden
 bandit3@bandit:~/inhere$ cat .hidden
 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
-
+```
 
 ## Notas adicionales
 Para ver los archivos oculros usa ls -a

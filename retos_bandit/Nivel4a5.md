@@ -7,6 +7,7 @@ La contraseña para el siguiente nivel se almacena en el único archivo legible 
 **Contraseña:** 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
 
 ## Solucion
+``` shell
 ssh bandit4@bandit.labs.overthewire.org -p2220
 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
 bandit4@bandit:~$ ls
@@ -27,7 +28,7 @@ bandit4@bandit:~/inhere$ file ./*
 ./-file09: data
 bandit4@bandit:~/inhere$ cat < -file07
 lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
-
+```
 ## Notas adicionales
 Con el comando ./* podemos ver todos los arcivos file que puedan ser legibles para los humanos
 

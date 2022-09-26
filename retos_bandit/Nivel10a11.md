@@ -7,6 +7,7 @@ La contraseña para el siguiente nivel se almacena en el archivo **data.txt** 
 **Contraseña:** G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
 
 ## Solucion
+``` shell
 ssh bandit10@bandit.labs.overthewire.org -p2220
 G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
 bandit10@bandit:~$ cat data.txt
@@ -23,7 +24,7 @@ data
 'VGhlIHBhc3N3b3JkIGlzIElGdWt3S0dzRlc4TU9xM0lSRnFyeEUxaHhUTkViVVBSCg= = \n'
 codecs.decode(data,'base64')
 'The password is 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM\n'
-
+```
 ## Notas adicionales
 Con base64 -d podemos desifrar la codificasion de base64
 

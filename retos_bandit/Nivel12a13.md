@@ -7,6 +7,7 @@ La contraseña para el siguiente nivel se almacena en el archivo **data.txt** 
 **Contraseña:** JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
 
 ## Solucion
+``` shell
 ssh bandit12@bandit.labs.overthewire.org -p2220
 JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
 
@@ -22,7 +23,7 @@ drwxr-xr-x 41 root     root     4096 May  7  2020 ..
 -rw-r--r--  1 root     root      675 May 15  2017 .profile
 bandit12@bandit:~$ cat data.txt | xxd -r | zcat | bzcat | zcat | tar xO | tar xO | bzcat | tar xO | zcat
 The password is wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
-
+```
 ## Notas adicionales
 Podemos desifrar la contraseña con xxd -r y podemos usar zcat, bzcat y tar xO para ver la contraseña
 

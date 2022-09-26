@@ -7,6 +7,8 @@ Un programa se ejecuta automáticamente a intervalos regulares desde **cron** 
 **Contraseña:** NvEJF7oVjkddltPSrdKEFOllh9V1IBcq
 
 ## Solucion
+
+``` shell
 ssh bandit21@bandit.labs.overthewire.org -p2220
 NvEJF7oVjkddltPSrdKEFOllh9V1IBcq
 
@@ -46,7 +48,7 @@ cat /etc/bandit_pass/bandit22 > /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
 
 bandit21@bandit:~$ cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
 WdDozAdTM2z9DiFEQ2mGlwngMfj4EZff
-
+```
 ## Notas adicionales
 vemos el comando cron que ayuda a controlar las tareas que se van ejecutando, podemos poner tiempos para que se puedan ejecutar esas tareas
 

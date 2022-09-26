@@ -9,6 +9,7 @@ Hay 2 archivos en el directorio de inicio: **passwords.old y passwords.new** .
 **Contraseña:** VwOSWtCA7lRKkTfbr2IDh6awj9RNZM5e
 
 ## Solucion
+``` shell
 ssh bandit17@bandit.labs.overthewire.org -p2220
 VwOSWtCA7lRKkTfbr2IDh6awj9RNZM5e
 
@@ -54,6 +55,7 @@ bandit17@bandit:~$ diff passwords.old passwords.new --color
 > hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg
 
 hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg
+```
 
 ## Notas adicionales
 Usamos el diff para coparar entre archivos y obtener el password

@@ -9,6 +9,7 @@ La contraseña para el siguiente nivel se puede recuperar enviando la contraseñ
 **Contraseña:** jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
 
 ## Solucion
+``` shell
 ssh bandit15@bandit.labs.overthewire.org -p2220
 jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
 bandit15@bandit:~$ man openssl
@@ -19,7 +20,7 @@ bandit15@bandit:~$ openssl s_client -connect localhost:30001
 jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
 Correct!
 JQttfApK4SeyHwDlI9SXGR50qclOAil1
-
+```
 ## Notas adicionales
 Para poder ver caracteristicas de openssl o s_client usamos el man
 de ahi podemos sacar el comando que ocupamos para la conexion

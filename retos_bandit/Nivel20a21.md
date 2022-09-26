@@ -9,6 +9,7 @@ Hay un binario setuid en el directorio de inicio que hace lo siguiente: establec
 **Contraseña:** VxCazJaVykI6W36BkBU0mJTCM8rR95XT
 
 ## Solucion
+``` shell
 ssh bandit20@bandit.labs.overthewire.org -p2220
 VxCazJaVykI6W36BkBU0mJTCM8rR95XT
 
@@ -40,7 +41,7 @@ NvEJF7oVjkddltPSrdKEFOllh9V1IBcq
 [1]+  Done                    nc -lnvp 3030 <<< VxCazJaVykI6W36BkBU0mJTCM8rR95XT
 
 NvEJF7oVjkddltPSrdKEFOllh9V1IBcq
-
+```
 ## Notas adicionales
 para abrir auna coneccion usamos eñ nc -lnvp y el puerto en este caso tambien mandamos la contraseña y para pasarlo a segundo plano usamos &
 podemos usar jobs para ver una lista de procesos en segundo plano

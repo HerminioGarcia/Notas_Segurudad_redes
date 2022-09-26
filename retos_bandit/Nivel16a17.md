@@ -7,6 +7,7 @@ Las credenciales para el siguiente nivel se pueden recuperar enviando la contras
 **Contraseña:** JQttfApK4SeyHwDlI9SXGR50qclOAil1
 
 ## Solucion
+``` shell
 ssh bandit16@bandit.labs.overthewire.org -p2220
 JQttfApK4SeyHwDlI9SXGR50qclOAil1
 
@@ -58,7 +59,7 @@ $ ls -la llave17
 $ ssh -i llave17 bandit17@bandit.labs.overthewire.org -p 2220
 bandit17@bandit:~$ cat /etc/bandit_pass/bandit17
 VwOSWtCA7lRKkTfbr2IDh6awj9RNZM5e
-
+```
 ## Notas adicionales
 nmap es un escaneo de puertos
 para poner un rango puedes usar en este caso nmap -p31000-32000 localhost

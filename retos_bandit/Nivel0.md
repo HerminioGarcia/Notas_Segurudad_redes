@@ -7,8 +7,9 @@ El objetivo de este nivel es que inicies sesión en el juego mediante SSH. El h
 **Contraseña:** bandit0
 
 ## Solucion
+``` shell
 ssh bandit0@bandit.labs.overthewire.org -p2220
-
+```
 ## Notas adicionales
 
 ## Referencias

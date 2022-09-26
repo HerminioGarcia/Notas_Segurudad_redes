@@ -7,6 +7,7 @@ La contraseña para el siguiente nivel se almacena en el archivo **data.txt** 
 **Contraseña:** wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
 
 ## Solucion
+``` shell
 ssh bandit13@bandit.labs.overthewire.org -p2220
 wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
 
@@ -67,7 +68,7 @@ $ ssh -i llave14 bandit14@bandit.labs.overthewire.org -p 2220
 //nos dirijomos a la contraseña de bandit14
 bandit14@bandit:~$ cat /etc/bandit_pass/bandit14
 fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq
-
+```
 ## Notas adicionales
 Usando el comando -i de ssh para poder usar un archivo de clave primaria y poder entrar con ella.
 

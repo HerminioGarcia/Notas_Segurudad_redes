@@ -7,6 +7,7 @@ La contraseña para el siguiente nivel se almacena en el archivo **data.txt** 
 **Contraseña:** z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
 
 ## Solucion
+``` shell
 ssh bandit7@bandit.labs.overthewire.org -p2220
 z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
 bandit7@bandit:~$ ls
@@ -21,7 +22,7 @@ OTRA FORMA
 
 bandit7@bandit:~$ grep millionth data.txt
 millionth       cvX2JJa4CFALtqS87jk27qwqGhBM9plV
-
+```
 ## Notas adicionales
 Con el comando grep creamos un filtro a la hora de revisar el archivo con cat
 

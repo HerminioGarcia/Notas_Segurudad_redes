@@ -7,6 +7,7 @@ La contraseña para el siguiente nivel se almacena en un archivo llamado **-**�
 **Contraseña:** NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 
 ## Solucion
+``` shell
 ssh bandit1@bandit.labs.overthewire.org -p2220
 NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 bandit1@bandit:~$ ls
@@ -14,7 +15,7 @@ bandit1@bandit:~$ cat -
 
 bandit1@bandit:~$ cat < -
 rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
-
+```
 ## Notas adicionales
 Se puede usar ./ o < para la solucion
 

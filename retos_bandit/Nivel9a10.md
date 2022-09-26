@@ -7,6 +7,7 @@ La contraseña para el siguiente nivel se almacena en el archivo **data.txt** 
 **Contraseña:** EN632PlfYiZbn3PhVK3XOGSlNInNE00t
 
 ## Solucion
+``` shell
 ssh bandit9@bandit.labs.overthewire.org -p2220
 EN632PlfYiZbn3PhVK3XOGSlNInNE00t
 bandit9@bandit:~$ ls
@@ -29,7 +30,7 @@ c^ LAh=3G
 S=A.H&^
 
 //se sospecha de G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
-
+```
 ## Notas adicionales
 El comando grep filtra todos los archivos =
 

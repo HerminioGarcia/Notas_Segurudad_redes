@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d602f10c8c0f05cd",
+        "id": "0865f35d30dd0f8d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "retos_bandit/Nivel9a10.md",
+            "file": "retos_bandit/Nivel27a28.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 186.5
   },
   "right": {
     "id": "d1727980bc583c93",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos_bandit/Nivel9a10.md",
+                "file": "retos_bandit/Nivel27a28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos_bandit/Nivel9a10.md",
+                "file": "retos_bandit/Nivel27a28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos_bandit/Nivel9a10.md"
+                "file": "retos_bandit/Nivel27a28.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d602f10c8c0f05cd",
+  "active": "3702ed8391b7981a",
   "lastOpenFiles": [
-    "retos_bandit/Nivel7a8.md",
-    "retos_bandit/Nivel8a9.md",
-    "retos_bandit/Nivel9a10.md",
-    "retos_bandit/Nivel6a7.md",
-    "retos_bandit/Nivel5a6.md",
-    "retos_bandit/Nivel0.md",
+    "retos_bandit/Nivel26a27.md",
+    "retos_bandit/Nivel27a28.md",
+    "retos_bandit/Nivel25a26.md",
+    "retos_bandit/Nivel24a25.md",
+    "retos_bandit/Nivel23a24.md",
+    "retos_bandit/Nivel22a23.md",
+    "retos_bandit/Nivel21a22.md",
+    "retos_bandit/Nivel17a18.md",
     "retos_bandit/Nivel0a1.md",
-    "retos_bandit/Nivel1a2.md",
-    "retos_bandit/Nivel2a3.md",
-    "retos_bandit/Nivel3a4.md"
+    "retos_bandit/Nivel0.md"
   ]
 }

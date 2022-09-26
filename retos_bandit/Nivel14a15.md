@@ -7,13 +7,14 @@ La contraseña para el siguiente nivel se puede recuperar enviando la contraseñ
 **Contraseña:** fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq
 
 ## Solucion
+``` shell
 ssh bandit14@bandit.labs.overthewire.org -p2220
 fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq
 bandit14@bandit:~$ nc localhost 30000
 fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq
 Correct!
 jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
-
+```
 ## Notas adicionales
 nc host puerto se conecta a un host en un puerto determinado
 

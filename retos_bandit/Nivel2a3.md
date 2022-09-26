@@ -7,13 +7,14 @@ La contraseña para el siguiente nivel se almacena en un archivo llamado **spac
 **Contraseña:** rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
 
 ## Solucion
+``` shell
 ssh bandit2@bandit.labs.overthewire.org -p2220
 rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
 bandit2@bandit:~$ ls
 spaces in this filename
 bandit2@bandit:~$ cat spaces\ in\ this\ filename
 aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
-
+```
 ## Notas adicionales
 Usa el tabulador para poder completar el nombre
 
