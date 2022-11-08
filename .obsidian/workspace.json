@@ -4,16 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "0865f35d30dd0f8d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "picoCTF2022-Parte3/Scavenger Hunt/Scavenger Hunt.md",
-            "mode": "source",
-            "source": false
+        "id": "ae551a62342d24cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92f1dfc652d042cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tareas/Tarea9_4taEtapaPerú/Boom Files.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27ae83478ea02a4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tareas/Tarea9_4taEtapaPerú/great_author.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "899d6d64941ebc20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tareas/Tarea9_4taEtapaPerú/Boom Files.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "269acef92fb38558",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tareas/Tarea9_4taEtapaPerú/Skils.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4533b6820e4406a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tareas/Tarea9_4taEtapaPerú/forense.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -31,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -77,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF2022-Parte3/Scavenger Hunt/Scavenger Hunt.md",
+                "file": "Tareas/Tarea9_4taEtapaPerú/forense.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF2022-Parte3/Scavenger Hunt/Scavenger Hunt.md",
+                "file": "Tareas/Tarea9_4taEtapaPerú/forense.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF2022-Parte3/Scavenger Hunt/Scavenger Hunt.md"
+                "file": "Tareas/Tarea9_4taEtapaPerú/forense.md"
               }
             }
           }
@@ -128,17 +185,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0865f35d30dd0f8d",
+  "active": "4533b6820e4406a0",
   "lastOpenFiles": [
-    "picoCTF2022-Parte3/Cookies/Cookies.md",
-    "picoCTF2022-Parte3/GET aHEAD/GET aHEAD.md",
-    "picoCTF2022-Parte3/Scavenger Hunt/Scavenger Hunt.md",
-    "picoCTF2019-Parte2/JaWT Scratchpad.md",
-    "picoCTF2022-Parte3/GET aHEAD/forma1/Captura2_bandera.PNG",
-    "picoCTF2022-Parte3/GET aHEAD/forma1/Captura1-cambio_Post_Head.PNG",
-    "picoCTF2019-Parte2/Irish-Name-Repo 3.md",
-    "picoCTF2019-Parte2/Irish-Name-Repo 2.md",
-    "picoCTF2019-Parte2/Irish-Name-Repo 1.md",
-    "Examen1/Beginner picoMini 2022/PW Crack 2/PW Crack 2.md"
+    "Tareas/Tarea9_4taEtapaPerú/Skils.md",
+    "Tareas/Tarea9_4taEtapaPerú/Boom Files.md",
+    "Tareas/Tarea9_4taEtapaPerú/forense.md",
+    "Tareas/Tarea9_4taEtapaPerú/great_author.md",
+    "Tareas/Tarea9_4taEtapaPerú/Find the message.md",
+    "Tareas/Tarea9_4taEtapaPerú/Take my key.md",
+    "Examen1/PicoCTF2019/First Grep/First Grep.md",
+    "Tareas/Tarea5_RetosWebPicoCTF/SQL_Direct.md",
+    "Tareas/Tarea5_RetosWebPicoCTF/Secrets.md",
+    "Tareas/Tarea5_RetosWebPicoCTF/Includes.md"
   ]
 }
