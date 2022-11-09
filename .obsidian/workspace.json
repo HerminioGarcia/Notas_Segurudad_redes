@@ -4,71 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "ae551a62342d24cd",
+        "id": "7c4557ffe79fc72e",
         "type": "tabs",
         "children": [
           {
-            "id": "92f1dfc652d042cb",
+            "id": "6561112793bb5efc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tareas/Tarea9_4taEtapaPerú/Boom Files.md",
+                "file": "Tareas/picoCTF 2019/vault-door-training.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "27ae83478ea02a4b",
+            "id": "8bfd43bd7f051d1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tareas/Tarea9_4taEtapaPerú/great_author.md",
+                "file": "Tareas/picoCTF 2019/vault-door-1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "899d6d64941ebc20",
+            "id": "b1b929cf0b660eeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tareas/Tarea9_4taEtapaPerú/Boom Files.md",
+                "file": "Tareas/picoCTF 2019/vault-door-3.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "269acef92fb38558",
+            "id": "438814b52fd815f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tareas/Tarea9_4taEtapaPerú/Skils.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4533b6820e4406a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tareas/Tarea9_4taEtapaPerú/forense.md",
+                "file": "Tareas/picoCTF 2019/vault-door-4.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tareas/Tarea9_4taEtapaPerú/forense.md",
+                "file": "Tareas/picoCTF 2019/vault-door-4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tareas/Tarea9_4taEtapaPerú/forense.md",
+                "file": "Tareas/picoCTF 2019/vault-door-4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tareas/Tarea9_4taEtapaPerú/forense.md"
+                "file": "Tareas/picoCTF 2019/vault-door-4.md"
               }
             }
           }
@@ -185,17 +173,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4533b6820e4406a0",
+  "active": "438814b52fd815f7",
   "lastOpenFiles": [
-    "Tareas/Tarea9_4taEtapaPerú/Skils.md",
+    "Tareas/picoCTF 2019/vault-door-3.md",
+    "Tareas/picoCTF 2019/vault-door-4.md",
+    "Tareas/picoCTF 2019/vault-door-1.md",
+    "Tareas/picoCTF 2019/vault-door-training.md",
     "Tareas/Tarea9_4taEtapaPerú/Boom Files.md",
+    "picoCTF2022-Parte3/Cookies/Cookies.md",
     "Tareas/Tarea9_4taEtapaPerú/forense.md",
-    "Tareas/Tarea9_4taEtapaPerú/great_author.md",
-    "Tareas/Tarea9_4taEtapaPerú/Find the message.md",
-    "Tareas/Tarea9_4taEtapaPerú/Take my key.md",
-    "Examen1/PicoCTF2019/First Grep/First Grep.md",
-    "Tareas/Tarea5_RetosWebPicoCTF/SQL_Direct.md",
-    "Tareas/Tarea5_RetosWebPicoCTF/Secrets.md",
-    "Tareas/Tarea5_RetosWebPicoCTF/Includes.md"
+    "Tareas/Tarea5_RetosWebPicoCTF/Includes.md",
+    "Tareas/Tarea9_4taEtapaPerú/Skils.md",
+    "Tareas/Tarea9_4taEtapaPerú/great_author.md"
   ]
 }
