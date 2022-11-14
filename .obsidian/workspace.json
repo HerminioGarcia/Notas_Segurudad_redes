@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7c4557ffe79fc72e",
+        "id": "aad6794acf4081a4",
         "type": "tabs",
         "children": [
           {
-            "id": "0a1fa1947fdcaec4",
+            "id": "f77fdce83f31501e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tareas/picoCTF 2019/caesar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4bdd96ebec8b3437",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tareas/picoCTF 2019/la cifra de.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b1e2b1eba9a0a21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tareas/picoCTF 2019/Tapping.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0370df51354882f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tareas/picoCTF 2019/waves over lambda.md",
+                "file": "Tareas/picoCTF 2019/Forensic picoCTF 2019 - Parte 1/WhitePages/WhitePages.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.5
+    "width": 291.5
   },
   "right": {
     "id": "d1727980bc583c93",
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tareas/picoCTF 2019/waves over lambda.md",
+                "file": "Tareas/picoCTF 2019/Forensic picoCTF 2019 - Parte 1/WhitePages/WhitePages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tareas/picoCTF 2019/waves over lambda.md",
+                "file": "Tareas/picoCTF 2019/Forensic picoCTF 2019 - Parte 1/WhitePages/WhitePages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tareas/picoCTF 2019/waves over lambda.md"
+                "file": "Tareas/picoCTF 2019/Forensic picoCTF 2019 - Parte 1/WhitePages/WhitePages.md"
               }
             }
           }
@@ -173,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e0370df51354882f",
+  "active": "f77fdce83f31501e",
   "lastOpenFiles": [
-    "Tareas/picoCTF 2019/Tapping.md",
-    "Tareas/picoCTF 2019/The Numbers.md",
-    "Tareas/picoCTF 2019/waves over lambda.md",
-    "Tareas/picoCTF 2019/la cifra de.md",
-    "Tareas/picoCTF 2019/caesar.md",
-    "Tareas/picoCTF 2019/13.md",
-    "Tareas/picoCTF 2019/Easy 1.md",
-    "Tareas/picoCTF 2019/Reversing picoCTF 2019 - Parte 1/vault-door-1.md",
-    "Tareas/picoCTF 2019/vault-door-3.md",
-    "Tareas/picoCTF 2019/vault-door-4.md"
+    "Tareas/picoCTF 2019/Forensic picoCTF 2019 - Parte 1/What Lies Within/What Lies Within.md",
+    "Tareas/picoCTF 2019/Forensic picoCTF 2019 - Parte 1/WhitePages/WhitePages.md",
+    "Tareas/picoCTF 2019/Forensic picoCTF 2019 - Parte 1/Glory of the Garden/Glory of the Garden.md",
+    "Tareas/picoCTF 2019/Forensic picoCTF 2019 - Parte 1/m00nwalk/m00nwalk.md",
+    "Tareas/picoCTF 2019/Forensic picoCTF 2019 - Parte 1/So Meta/So Meta.md",
+    "Tareas/picoCTF 2019/Forensic picoCTF 2019 - Parte 1/shark on wire 1/shark on wire 1.md",
+    "Tareas/picoCTF 2019/Forensic picoCTF 2019 - Parte 1/extensions/extensions.md",
+    "message-resultado.png.md",
+    "Tareas/picoCTF 2019/Forensic picoCTF 2019 - Parte 1/So Meta/pico_img.png",
+    "Tareas/picoCTF 2019/Crypto picoCTF 2019 - Parte 1/caesar.md"
   ]
 }
