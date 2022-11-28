@@ -4,71 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "dd32b5f5218b9497",
+        "id": "29b21cad98746ac5",
         "type": "tabs",
         "children": [
           {
-            "id": "44ec21b76c62ed60",
+            "id": "8b7b095018b1aed2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tareas/picoCTF 2019/Forensic picoCTF 2019 - Parte 2/c0rrupt.md",
+                "file": "Tareas/picoCTF 2019/Web picoCTF 2019 - Parte 1/Insp3ct0r.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f49188a4d640059b",
+            "id": "522e764359a55387",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tareas/picoCTF 2019/Forensic picoCTF 2019 - Parte 2/like1000.md",
+                "file": "Tareas/picoCTF 2019/Web picoCTF 2019 - Parte 1/where are the robots.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fe6454bcca321d0c",
+            "id": "89a32bb1cc4e8484",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tareas/picoCTF 2019/Forensic picoCTF 2019 - Parte 2/shark on wire 2.md",
+                "file": "Tareas/picoCTF 2019/Web picoCTF 2019 - Parte 1/logon.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a6d18a3d2e37842c",
+            "id": "8344d3dec2f47e20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tareas/picoCTF 2019/Forensic picoCTF 2019 - Parte 2/WebNet0.md",
+                "file": "Tareas/picoCTF 2019/Web picoCTF 2019 - Parte 1/dont-use-client-side.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "971ea3d41c96f569",
+            "id": "6ac40105df362200",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tareas/picoCTF 2019/Forensic picoCTF 2019 - Parte 2/WebNet1.md",
+                "file": "Tareas/picoCTF 2019/Web picoCTF 2019 - Parte 1/picobrowser.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "576487ff7378c46f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tareas/picoCTF 2019/Web picoCTF 2019 - Parte 1/Client-side-again.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tareas/picoCTF 2019/Forensic picoCTF 2019 - Parte 2/WebNet1.md",
+                "file": "Tareas/picoCTF 2019/Web picoCTF 2019 - Parte 1/Client-side-again.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tareas/picoCTF 2019/Forensic picoCTF 2019 - Parte 2/WebNet1.md",
+                "file": "Tareas/picoCTF 2019/Web picoCTF 2019 - Parte 1/Client-side-again.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tareas/picoCTF 2019/Forensic picoCTF 2019 - Parte 2/WebNet1.md"
+                "file": "Tareas/picoCTF 2019/Web picoCTF 2019 - Parte 1/Client-side-again.md"
               }
             }
           }
@@ -185,17 +197,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "971ea3d41c96f569",
+  "active": "576487ff7378c46f",
   "lastOpenFiles": [
-    "Tareas/picoCTF 2019/Forensic picoCTF 2019 - Parte 2/WebNet0.md",
-    "Tareas/picoCTF 2019/Forensic picoCTF 2019 - Parte 2/WebNet1.md",
-    "Tareas/picoCTF 2019/Forensic picoCTF 2019 - Parte 2/shark on wire 2.md",
-    "Tareas/picoCTF 2019/Forensic picoCTF 2019 - Parte 2/like1000.md",
-    "Tareas/picoCTF 2019/Forensic picoCTF 2019 - Parte 2/c0rrupt.md",
-    "Tareas/picoCTF 2019/Forensic picoCTF 2019 - Parte 1/WhitePages/WhitePages.md",
-    "Screenshot_2022-10-14_21_16_07.png.md",
-    "Tareas/picoCTF 2019/Forensic picoCTF 2019 - Parte 1/So Meta/So Meta.md",
-    "Tareas/picoCTF 2019/Forensic picoCTF 2019 - Parte 1/What Lies Within/What Lies Within.md",
-    "Tareas/picoCTF 2019/Forensic picoCTF 2019 - Parte 1/Glory of the Garden/Glory of the Garden.md"
+    "Tareas/picoCTF 2019/Web picoCTF 2019 - Parte 1/picobrowser.md",
+    "Tareas/picoCTF 2019/Web picoCTF 2019 - Parte 1/where are the robots.md",
+    "Tareas/picoCTF 2019/Web picoCTF 2019 - Parte 1/dont-use-client-side.md",
+    "Tareas/picoCTF 2019/Web picoCTF 2019 - Parte 1/Client-side-again.md",
+    "Tareas/picoCTF 2019/Web picoCTF 2019 - Parte 1/logon.md",
+    "Tareas/picoCTF 2019/Web picoCTF 2019 - Parte 1/Insp3ct0r.md",
+    "Tareas/picoCTF 2019/Crypto picoCTF 2019 - Parte 1/caesar.md",
+    "Tareas/picoCTF 2019/Crypto picoCTF 2019 - Parte 1/13.md",
+    "Tareas/TAREA/buffer overflow 0.md",
+    "Tareas/picoCTF 2019/Crypto picoCTF 2019 - Parte 2/rsa-pop-quiz.md"
   ]
 }

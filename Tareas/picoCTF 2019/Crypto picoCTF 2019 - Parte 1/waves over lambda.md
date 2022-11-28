@@ -48,5 +48,13 @@ recuerda que esta bandera no tiene el formato habitual
 ## Notas
 La bandera no tiene el formato de bandera habitual
 
+
+
+![[Pasted image 20221122082003.png]]
+
+![[Pasted image 20221122083254.png]]
+
+
+
 ## Referencias
 sin referencias.
